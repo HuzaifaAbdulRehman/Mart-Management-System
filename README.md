@@ -2,9 +2,15 @@
 
 A comprehensive C++ application for managing retail store operations including inventory, employees, billing, and sales monitoring.
 
+## Contributors / Group Members
+
+- Saad Shakeel — 23k-0614  
+- Abdul Moiz Hossain — 23k-0553  
+- Huziafa Abdul Rehman — 23k-0782
+
 ## Description
 
-This Mart Management System is an Object-Oriented Programming (OOP) project built in C++ that provides a complete solution for managing a retail mart. The system features user authentication, product inventory management across multiple categories, employee management, billing operations, and sales tracking.
+This Mart Management System is an Object-Oriented Programming (OOP) project built in C++ that provides a complete solution for managing a retail mart. The system features user authentication, product and employee management, billing, and sales monitoring.
 
 ## Features
 
